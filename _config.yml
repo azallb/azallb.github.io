@@ -26,8 +26,8 @@ author:
   name             : "Azal LE BAGOUSSE"
   pronouns         : # example: "she/her"  
   bio              : "I'm a post-graduate student specializing in auditory perception and speech comprehension. This website showcases my academic works and details about my research so far."
-  location         : "Paris, FR / Newcastle upon Tyne, UK"
-  employer         : "LSP, DEC, ENS-PSL / Auditory Cognition Group NCL"
+  location         : "ENS Paris, FR / Newcastle Med School, UK"
+  employer         : "LSP, DEC / Auditory Cognition Group"
   uri              : # URL
   email            : "azal.lebagousse@gmail.com" 
 
@@ -38,7 +38,7 @@ author:
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # "https://www.researchgate.net/profile/Azal-Lb"
+  researchgate     : "https://www.researchgate.net/profile/Azal-Lb"
   scopus           : # URL
 
   # Repositories and software development
