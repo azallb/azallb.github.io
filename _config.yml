@@ -11,11 +11,11 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Research Portfolio"
 title_separator          : "-"
-name                     : &name "Azal LE BAGOUSSE"
-description              : &description "This is a test description because I don't know where it should be appearing"
+name                     : &name "Azal LB's website"
+description              : &description "Work and academic research page"
 url                      : https://azallb.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "azallb/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,22 +23,22 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Azal LE BAGOUSSE"
   pronouns         : # example: "she/her"  
   bio              : "I'm a post-graduate student specializing in auditory perception and speech comprehension. This website showcases my academic works and details about my research so far."
-  location         : "Paris (75000), FR / Newcastle (NE2 4HH), UK"
-  employer         : "Laboratoire des Systemes Perceptifs, ENS, PSL / Auditory Cognition Group, Newcastle Medical School"
+  location         : "Paris, FR / Newcastle upon Tyne, UK"
+  employer         : "LSP, DEC, ENS-PSL / Auditory Cognition Group NCL"
   uri              : # URL
   email            : "azal.lebagousse@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : # "https://www.researchgate.net/profile/Azal-Lb"
   scopus           : # URL
 
   # Repositories and software development
