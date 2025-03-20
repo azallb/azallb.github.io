@@ -25,9 +25,10 @@ author:
   avatar           : "my_avatar2.png"
   name             : "Azal LE BAGOUSSE"
   pronouns         : "she/her"  
-  bio              : "I'm a post-graduate student specializing in auditory perception and speech comprehension. This website showcases my academic works and details about my research so far."
+  bio              : "I'm a post-graduate student specializing in auditory perception and speech comprehension. This website showcases my academic works and details about my research so far. 
+                      You can find my old blog about hearing and music on my facebook page down below."
   location         : "ENS Paris, FR / Newcastle Med School, UK"
-  employer         : "LSP, DEC / Auditory Cognition Group"
+  employer         : "LSP, DEC / Auditory Cog Group"
   uri              : # URL
   email            : "azal.lebagousse@gmail.com" 
 
@@ -45,13 +46,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "azallb"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
+  facebook         : "melomanelibre"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
