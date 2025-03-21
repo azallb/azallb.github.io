@@ -10,39 +10,16 @@ redirect_from:
 Hi ! I'm Azal and this page was designed to organize and showcase my work, mostly academic, cumulated over the course of my studies. <br>
 You can find old blog articles on my sound-related [Facebook page](https://www.facebook.com/melomanelibre/) (now inactive), also available by clicking the Facebook icon on the sidebar.
 
-About me
+About Me
 ======
 I'm a 22 year-old post-graduate engineering student from France. I'm specialzing in psychoacoustics, hearing, neurosciences, and speech comprehension. I will be graduating in September 2025 from my Master 2 called "[ATIAM](http://www.atiam.ircam.fr/en/)" (meaning Acoustics, Signal Processing and Machine Learning for Music). This Master program is hosted by [Ircam](https://www.ircam.fr/), [Sorbonne University](https://sciences.sorbonne-universite.fr/en) and [Telecom Paris](https://www.telecom-paris.fr/en/home).
 
-Links
+More Facts And Frolics
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. I've been interested in auditory perception for more than 3 years, in sound physics for 8, in music for 15, and in human behaviour for my entire life.
+1. My 2nd most important hobby, after studying people, is music ! I've been singing my whole life, but I also play the bass and sometimes the guitar. I have performed at some concerts and it was the best experience of my life every time. I also listen to at least 2h of music per day.
+1. I write a lot : from novels to poems, sometimes even movie scripts... I write at least once a day, and I have a never ending urge to write.
+1. I love and dabble in most arts like drawing, painting, sculpting... I need to put my hands on medium any time I can.
+1. I have studied many languages : I am fluent in French and English, but studied Japanese as my 2nd language for 7 years in secondary school, and Italian as my third at the same time for 5 years. I am currently learning Persian (Farsi) and LSF (French Sign Language). My next languages of interest are Finnish, Swedish, German and Mandarin. I dream of learning every language I can to help my understanding of diverse cultures and communities.
+1. I love the outdoors and being active : you'll either find me bouldering or hiking on the weekends. And I have tried almost every sports, I never say no to testing new activities.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
