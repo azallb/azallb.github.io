@@ -12,7 +12,11 @@ You can find old blog articles on my sound-related [Facebook page](https://www.f
 
 About Me
 ======
-I'm a 22 year-old post-graduate engineering student from France. I'm specialzing in psychoacoustics, hearing, neurosciences, and speech comprehension. I will be graduating in September 2025 from my Master 2 called "[ATIAM](http://www.atiam.ircam.fr/en/)" (standing for "Acoustics, Signal Processing and Machine Learning for Music" in French). This Master program is hosted by [Ircam](https://www.ircam.fr/), [Sorbonne University](https://sciences.sorbonne-universite.fr/en) and [Telecom Paris](https://www.telecom-paris.fr/en/home).
+I'm a 22 year-old post-graduate engineering student from Paris, France. I'm specialzing in psychoacoustics, hearing, neurosciences, and speech comprehension. <br> 
+I will be graduating in September 2025 from my Master 2 called "[ATIAM](http://www.atiam.ircam.fr/en/)" (standing for "Acoustics, Signal Processing and Machine Learning for Music" in French). This Master program is hosted by [Ircam](https://www.ircam.fr/), [Sorbonne University](https://sciences.sorbonne-universite.fr/en) and [Telecom Paris](https://www.telecom-paris.fr/en/home). <br>
+In 2024, I graduated from my Master 1 degree in Mechanical Engineering, Acoustics branch at [Sorbonne University](https://sciences.sorbonne-universite.fr/en). <br>
+In 2023, I graduated from my Bachelor in Mechanical Engineering with a minor in Computer Science with 2:1 Honours, still at Sorbonne. <br>
+In 2020, I got my French Scientific Baccalaureate with the Highest Honours (First Class) from the [Lycee Jean de la Fontaine](https://pia.ac-paris.fr/serail/jcms/p2_73053/fr/accueil).
 
 More Facts And Frolics
 ======
