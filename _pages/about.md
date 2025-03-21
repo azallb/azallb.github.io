@@ -9,7 +9,7 @@ redirect_from:
 
 Hi ! I'm Azal and this page was designed to organize and showcase my work, mostly academic, cumulated over the course of my studies. 
 
-You can find old blog articles on [my Facebook blog, @melomanelibre](https://www.facebook.com/melomanelibre/) (now inactive), also available by clicking the Facebook icon on the sidebar.
+You can find old blog articles on [my Facebook blog](https://www.facebook.com/melomanelibre/) (now inactive), also available by clicking the Facebook icon on the sidebar.
 
 A data-driven personal website
 ======
