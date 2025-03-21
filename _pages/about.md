@@ -25,5 +25,5 @@ More Facts And Frolics
 1. I write a lot : from novels to poems, sometimes even movie scripts... I write at least once a day, and I have a never ending urge to write.
 1. I love and dabble in most arts like drawing, painting, sculpting... I need to put my hands on medium any time I can.
 1. I have studied many languages : I am fluent in French and English, but studied Japanese as my 2nd language for 7 years in secondary school, and Italian as my third at the same time for 5 years. I am currently learning Persian (Farsi) and LSF (French Sign Language). My next languages of interest are Finnish, Swedish, German and Mandarin. I dream of learning every language I can to help my understanding of diverse cultures and communities.
-1. I love the outdoors and being active : you'll either find me bouldering or hiking on the weekends. And I have tried almost every sports, I never say no to testing new activities.
+1. I love the outdoors and being active : you'll either find me bouldering or hiking on the weekends. And I have tried almost every sports, I never say no to trying out new activities.
 
