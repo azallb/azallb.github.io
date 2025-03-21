@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "This is Azal Le Bagousse's research related website. Welcome !"
 author_profile: true
 redirect_from: 
   - /about/
