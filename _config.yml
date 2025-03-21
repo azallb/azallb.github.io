@@ -22,7 +22,7 @@ repository               : "azallb/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "my_avatar2.png"
+  avatar           : "my_avatar.png"
   name             : "Azal LE BAGOUSSE"
   pronouns         : "she/her"  
   bio              : "I'm a post-graduate student specializing in auditory perception and speech comprehension. This website showcases my academic works and details about my research so far. <br> 
