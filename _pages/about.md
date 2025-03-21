@@ -12,7 +12,7 @@ You can find old blog articles on my sound-related [Facebook page](https://www.f
 
 About Me
 ======
-I'm a 22 year-old post-graduate engineering student from France. I'm specialzing in psychoacoustics, hearing, neurosciences, and speech comprehension. I will be graduating in September 2025 from my Master 2 called "[ATIAM](http://www.atiam.ircam.fr/en/)" (meaning Acoustics, Signal Processing and Machine Learning for Music). This Master program is hosted by [Ircam](https://www.ircam.fr/), [Sorbonne University](https://sciences.sorbonne-universite.fr/en) and [Telecom Paris](https://www.telecom-paris.fr/en/home).
+I'm a 22 year-old post-graduate engineering student from France. I'm specialzing in psychoacoustics, hearing, neurosciences, and speech comprehension. I will be graduating in September 2025 from my Master 2 called "[ATIAM](http://www.atiam.ircam.fr/en/)" (standing for "Acoustics, Signal Processing and Machine Learning for Music" in French). This Master program is hosted by [Ircam](https://www.ircam.fr/), [Sorbonne University](https://sciences.sorbonne-universite.fr/en) and [Telecom Paris](https://www.telecom-paris.fr/en/home).
 
 More Facts And Frolics
 ======
