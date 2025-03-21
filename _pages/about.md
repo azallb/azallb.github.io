@@ -12,7 +12,7 @@ You can find old blog articles on my sound-related [Facebook page](https://www.f
 
 About Me
 ======
-I'm a 22 year-old post-graduate engineering student from Paris, France. I'm specialzing in psychoacoustics, hearing, neurosciences, and speech comprehension. <br> 
+I'm a 22 year-old post-graduate engineering student from Paris, France. I'm specializing in psychoacoustics, hearing, neurosciences, and speech comprehension. <br> 
 I will be graduating in September 2025 from my Master 2 called "[ATIAM](http://www.atiam.ircam.fr/en/)" (standing for "Acoustics, Signal Processing and Machine Learning for Music" in French). This Master program is hosted by [Ircam](https://www.ircam.fr/), [Sorbonne University](https://sciences.sorbonne-universite.fr/en) and [Telecom Paris](https://www.telecom-paris.fr/en/home). <br>
 In 2024, I graduated from my Master 1 degree in Mechanical Engineering, Acoustics branch at [Sorbonne University](https://sciences.sorbonne-universite.fr/en). During this year, I have won a prize for curriculum excellence and future work prospects, given by Sorbonne and its Retired Researchers Group (see French page : [Prix des Anciens 2023](https://anciens.sorbonne-universite.fr/index.php/prix-des-anciens)). <br>
 In 2023, I graduated from my Bachelor in Mechanical Engineering with a minor in Computer Science with 2:1 Honours, still at Sorbonne. <br>
