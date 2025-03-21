@@ -25,9 +25,8 @@ author:
   avatar           : "my_avatar2.png"
   name             : "Azal LE BAGOUSSE"
   pronouns         : "she/her"  
-  bio              : | 
-    I'm a post-graduate student specializing in auditory perception and speech comprehension. This website showcases my academic works and details about my research so far. 
-    I'm also building a PhD project with my supervisors at the LSP and the ACG, and looking for fundings. Do not hesitate to contact me for anything ! x
+  bio              : "I'm a post-graduate student specializing in auditory perception and speech comprehension. This website showcases my academic works and details about my research so far. <br> 
+      I'm also building a PhD project with my supervisors at the LSP and the ACG, and looking for fundings. Do not hesitate to contact me for anything ! x"
   location         : "ENS Paris / NCL Med School"
   employer         : "LSP, DEC / Auditory Cog Group"
   uri              : # URL
