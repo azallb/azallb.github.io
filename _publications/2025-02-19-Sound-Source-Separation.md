@@ -3,11 +3,13 @@ title: "Sound Recording and Audio Source Separation"
 collection: articles
 category: reports
 permalink: /articles/2025-02-19-Sound-Source-Separation
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'This paper is about Acoustical source separation and Sound recording. It was written for our M2 ATIAM end of the year-project, carried out over the course of two months in 2025. '
 date: 2025-02-19
-venue: 'M2 ATIAM Project'
+#venue: 'M2 ATIAM Project'
 paperurl: 'http://azallb.github.io/files/PAM-Source-Separation.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+citation: 'Azal LE BAGOUSSE, Robin WENDLING, Jiale KANG (2025). &quot;Sound Recording and Audio Source Separation-Project report.&quot; <i>M2 ATIAM</i>. 1(3).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Abstract : This study investigates the impact of controlled recording conditions on audio source separation by integrating sound recording techniques and numerical signal processing methods. By strategically capturing musical performances with optimized microphone setups to obtain both mixtures and isolated instrument tracks, different levels of separation effectiveness can be achieved. Prior information, in the form of a dictionary of notes obtained by recording each instrument individually, can be incorporated to guide the separation process. Both traditional signal processing methods (Gaussian MNMF, FastMNMF2, ILRMA) and deep learning models (Demucs, Spleeter) were evaluated. Subjective (listening task) and objective (numerical metrics) methods were used for the evaluation of all algorithms. The results indicate that separation performance is strongly influenced by instrument playing techniques, recording conditions, and musical genre selection. Additionally, reverberation and leakage present challenges for separation. The study further analyzes the relationship between evaluation methods, the differences between algorithms, and the impact of input configurations on separation performance.
+
+Key-words : Sound recording, Sound source separation, Audio, Signal processing, Deep learning, Separation algorithms, NMF
