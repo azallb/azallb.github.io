@@ -7,7 +7,7 @@ excerpt: 'This paper is about Acoustical source separation and Sound recording. 
 date: 2025-02-19
 venue: NULL
 paperurl: 'http://azallb.github.io/files/PAM-Source-Separation.pdf'
-citation: 'Azal LE BAGOUSSE, Robin WENDLING, Jiale KANG (2025). &quot;Sound Recording and Audio Source Separation-Project report.&quot; Master 2 ATIAM..'
+citation: 'Azal LE BAGOUSSE, Robin WENDLING, Jiale KANG (2025). &quot;Sound Recording and Audio Source Separation-Project report.&quot; Master 2 ATIAM.'
 ---
 
 Abstract : This study investigates the impact of controlled recording conditions on audio source separation by integrating sound recording techniques and numerical signal processing methods. By strategically capturing musical performances with optimized microphone setups to obtain both mixtures and isolated instrument tracks, different levels of separation effectiveness can be achieved. Prior information, in the form of a dictionary of notes obtained by recording each instrument individually, can be incorporated to guide the separation process. Both traditional signal processing methods (Gaussian MNMF, FastMNMF2, ILRMA) and deep learning models (Demucs, Spleeter) were evaluated. Subjective (listening task) and objective (numerical metrics) methods were used for the evaluation of all algorithms. The results indicate that separation performance is strongly influenced by instrument playing techniques, recording conditions, and musical genre selection. Additionally, reverberation and leakage present challenges for separation. The study further analyzes the relationship between evaluation methods, the differences between algorithms, and the impact of input configurations on separation performance.
