@@ -15,7 +15,7 @@ Education
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
 
-Work experience
+Experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -41,7 +41,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+Works
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
