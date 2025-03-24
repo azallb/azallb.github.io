@@ -8,7 +8,7 @@ date: 2025-04-28
 venue: CFA (French Acoustics Congress) 2025 papers
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://azallb.github.io/files/Ahumada-study_lebagousse_varnet2025.pdf'
-citation: 'A. LE BAGOUSSE, L. Varnet (2025). &quot;50 Years of Reverse Correlation : Replicating Ahumada et al.s Pioneering Study.&quot; CFA 2025 papers.'
+citation: 'A. LE BAGOUSSE, L. VARNET (2025). &quot;50 Years of Reverse Correlation : Replicating Ahumada et al.s Pioneering Study.&quot; CFA 2025 papers.'
 ---
 
 Abstract : In 1975, Ahumada, Marken & Sandusky addressed the fundamental question of tone-in-noise perception using

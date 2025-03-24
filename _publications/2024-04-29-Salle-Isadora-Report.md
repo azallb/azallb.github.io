@@ -8,7 +8,7 @@ date: 2024-04-09
 venue: NULL
 #slidesurl: 'http://academicpages.github.io/files/CR_projet_isadora_2023SU.pdf'
 paperurl: 'http://azallb.github.io/files/CR_projet_isadora_2023SU.pdf'
-citation: 'A LE BAGOUSSE, E Belhassen (2023). &quot;Room Acoustics Measures and Evaluation-M1 Acoustical Engineering Project report.&quot; Unpublished.'
+citation: 'A LE BAGOUSSE, E BELHASSEN (2023). &quot;Room Acoustics Measures and Evaluation-M1 Acoustical Engineering Project report.&quot; Unpublished.'
 ---
 
 Abstract : In the field of acoustical engineering, modeling in the continuous medium is necessary to be able
