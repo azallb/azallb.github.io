@@ -1,5 +1,5 @@
 ---
-title: "Sorbonne Curriculum and Projects Award (*Prix des Anciens*) 2024"
+title: "Master 1 Internship Presentation - Tone-in-Noise Detection"
 collection: talks
 type: "Presentation"
 permalink: /talks/Master1-internship
