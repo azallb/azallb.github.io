@@ -2,7 +2,7 @@
 title: "Sound Recording and Audio Source Separation"
 collection: articles
 category: reports
-permalink: /articles/2025-02-19-Sound-Source-Separation
+permalink: /articles/2025-02-19_Sound-Source-Separation
 excerpt: '[Language : ENG] This paper is about sound recording and diverse algorithms used for separation sound sources from each other in complex musical scenes. It was written for our M2 ATIAM end of the year-project, carried out over the course of 1.5 months in 2025.'
 date: 2025-02-19
 venue: NULL
