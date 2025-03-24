@@ -2,12 +2,12 @@
 title: "Room Acoustics Measurements and Evaluation / *Etude Acoustique de la Salle Isadora*"
 collection: articles
 category: reports
-permalink: /articles/2022-07-01-L2_internship_report
+permalink: /articles/2024-04-29-Room-Acoustics-Report
 excerpt: '[Language : FR] This paper is about plotting and modelling different sound sources directivities with beamforming, after recording sounds with a 256 microphones-antenna. It was written for my voluntary 2nd year of bachelor internship, with a Masters 1st year level (context of Acoustics Master of Sorbonne University). '
-date: 2022-07-01
+date: 2024-04-09
 venue: NULL
-#slidesurl: 'http://academicpages.github.io/files/report_L2_internship_2022SU.pdf'
-paperurl: 'http://azallb.github.io/files/report_L2_internship_2022SU.pdf'
+#slidesurl: 'http://academicpages.github.io/files/CR_projet_isadora_2023SU.pdf'
+paperurl: 'http://azallb.github.io/files/CR_projet_isadora_2023SU.pdf'
 citation: NULL
 ---
 
