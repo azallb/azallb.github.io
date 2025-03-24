@@ -3,7 +3,7 @@ title: "Study of Tone-in-Noise Detection by the Auditory System / *Etude de la d
 collection: articles
 category: reports
 permalink: /articles/2024-07-31_M1-Internship-ToneinNoise
-excerpt: '[Language : FR] This paper is about Signal Detection Theory (SDT), Tone-in-Noise detection by the human auditory system and replicating a pioneering study from the 70s to test a brand new toolbox developped by the lab. It was written for my 1 year of Masters internship, that was conducted from start of May to start of August 2024 at the Laboratoire des Systemes Perceptifs, Departement dEtudes Cognitives, ENS-PSL, France.'
+excerpt: '[Language : FR] This paper is about Signal Detection Theory (SDT), Tone-in-Noise detection by the human auditory system and replicating a pioneering study from the 70s to test a brand new toolbox developped by the lab. It was written for my 1st year of Masters internship, that was conducted from start of May to start of August 2024 at the Laboratoire des Systemes Perceptifs, Departement dEtudes Cognitives, ENS-PSL, France.'
 date: 2024-07-31
 venue: NULL
 #slidesurl: 'http://academicpages.github.io/files/report_M1_internship_2024ENS.pdf'
