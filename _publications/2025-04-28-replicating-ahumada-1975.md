@@ -1,7 +1,7 @@
 ---
 title: "50 Years of Reverse Correlation : Replicating Ahumada et al.'s Pioneering Study"
 collection: articles
-category: conference articles
+category: conferences
 permalink: /articles/2025-04-28-replicating_ahumada_1975
 excerpt: '[Language : ENG] This paper is about'
 date: 2025-04-28
