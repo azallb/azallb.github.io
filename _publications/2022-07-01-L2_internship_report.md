@@ -8,7 +8,7 @@ date: 2022-07-01
 venue: NULL
 #slidesurl: 'http://academicpages.github.io/files/report_L2_internship_2022SU.pdf'
 paperurl: 'http://azallb.github.io/files/report_L2_internship_2022SU.pdf'
-citation: NULL
+citation: 'test'
 ---
 
 Abstract : In the field of acoustical engineering, modeling in the continuous medium is necessary to be able
