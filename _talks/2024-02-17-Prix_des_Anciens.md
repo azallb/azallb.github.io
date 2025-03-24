@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/prix-des-anciens-award
 venue: "Amphiteatre Pasquier, Campus des Cordeliers, Sorbonne University-Paris Cite University"
 date: 2024-02-17
-location: "Paris 75006, France"
+location: "Paris, France"
 ---
 
 This talk was given after I was nominated for the *Prix des Anciens* award, in front of the Retired Researchers society of Sorbonne University (*Groupe des Anciens*),teachers and the President of Sorbonne University. I presented my curriculum and my future prospects of becoming a researcher in psychoacoustics. <br>
