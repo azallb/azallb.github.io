@@ -3,9 +3,10 @@ title: "Sound Recording and Audio Source Separation"
 collection: articles
 category: reports
 permalink: /articles/2025-02-19-Sound-Source-Separation
-excerpt: 'This paper is about Acoustical source separation and Sound recording. It was written for our M2 ATIAM end of the year-project, carried out over the course of two months in 2025. '
+excerpt: '[Language : ENG] This paper is about sound recording and diverse algorithms used for separation sound sources from each other in a mixed-sounds environment. It was written for our M2 ATIAM end of the year-project, carried out over the course of 1.5 months in 2025.'
 date: 2025-02-19
 venue: NULL
+#slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://azallb.github.io/files/PAM-Source-Separation.pdf'
 citation: 'Azal LE BAGOUSSE, Robin WENDLING, Jiale KANG (2025). &quot;Sound Recording and Audio Source Separation-Project report.&quot; Master 2 ATIAM.'
 ---
