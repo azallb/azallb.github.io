@@ -1,5 +1,5 @@
 ---
-title: "Voluntary 2nd year Internship in Sound Source Directivity through Beamforming / *Rapport de stage volontaire (L2)*"
+title: "Room Acoustics Measurements and Evaluation / *Etude Acoustique de la Salle Isadora*"
 collection: articles
 category: reports
 permalink: /articles/2022-07-01-L2_internship_report
