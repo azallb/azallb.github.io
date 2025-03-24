@@ -8,7 +8,7 @@ date: 2022-07-01
 venue: NULL
 #slidesurl: 'http://academicpages.github.io/files/report_L2_internship_2022SU.pdf'
 paperurl: 'http://azallb.github.io/files/report_L2_internship_2022SU.pdf'
-citation: 'A. LE BAGOUSSE, L. Varnet (2025). &quot;50 Years of Reverse Correlation : Replicating Ahumada et al.s Pioneering Study.&quot; CFA 2025 papers.'
+citation: 'Azal LE BAGOUSSE (2022). &quot;Sound directivity and Beamforming-Licence 2 Internship.&quot; Unpublished.'
 ---
 
 Abstract : In the field of acoustical engineering, modeling in the continuous medium is necessary to be able
