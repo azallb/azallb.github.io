@@ -1,5 +1,5 @@
 ---
-title: "Room Acoustics Measurements and Evaluation / *Etude Acoustique de la Salle Isadora*"
+title: "Room Acoustics Measures and Evaluation / *Etude Acoustique de la Salle Isadora*"
 collection: articles
 category: reports
 permalink: /articles/2024-04-29-Room-Acoustics-Report
