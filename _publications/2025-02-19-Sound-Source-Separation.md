@@ -6,7 +6,7 @@ permalink: /articles/2025-02-19_Sound-Source-Separation
 excerpt: '[Language : ENG] This paper is about sound recording and diverse algorithms used for separation sound sources from each other in complex musical scenes. It was written for our M2 ATIAM end of the year-project, carried out over the course of 1.5 months in 2025.'
 date: 2025-02-19
 venue: NULL
-#slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+slidesurl: 'http://academicpages.github.io/files/slides_source_separation.pdf'
 paperurl: 'http://azallb.github.io/files/PAM-Source-Separation.pdf'
 citation: 'A. LE BAGOUSSE, R. WENDLING, J. KANG (2025). &quot;Sound Recording and Audio Source Separation-M2 ATIAM Project report.&quot; Unpublished.'
 ---

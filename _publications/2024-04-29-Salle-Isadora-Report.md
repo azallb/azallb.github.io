@@ -6,7 +6,7 @@ permalink: /articles/2024-04-29_Room-Acoustics-Report
 excerpt: '[Language : FR] This paper is about plotting and modelling different sound sources directivities with beamforming, after recording sounds with a 256 microphones-antenna. It was written for my voluntary 2nd year of bachelor internship, with a Masters 1st year level (context of Acoustics Master of Sorbonne University). '
 date: 2024-04-09
 venue: NULL
-#slidesurl: 'http://academicpages.github.io/files/CR_projet_isadora_2023SU.pdf'
+slidesurl: 'http://academicpages.github.io/files/slides_projet_isadora.pdf'
 paperurl: 'http://azallb.github.io/files/CR_projet_isadora_2023SU.pdf'
 citation: 'A LE BAGOUSSE, E BELHASSEN (2024). &quot;Room Acoustics Measures and Evaluation-M1 Acoustical Engineering Project report.&quot; Unpublished.'
 ---
