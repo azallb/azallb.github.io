@@ -53,6 +53,8 @@
             <strong><i class="fa fa-fw fa-calendar"></i> Date:</strong>
             <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
           </p>
+        {% else %}
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar"></i> Coming soon</strong></p>
         {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
