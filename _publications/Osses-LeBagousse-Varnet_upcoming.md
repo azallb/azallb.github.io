@@ -3,30 +3,10 @@ title: "UPCOMING : fastACI toolbox paper*"
 collection: articles
 category: journals
 permalink: /articles/upcoming-Osses-LeBagousse-Varnet-2025
-excerpt: '[Language : ENG] This paper is about plotting and modelling different sound sources directivities with beamforming, after recording sounds with a 256 microphones-antenna. It was written for my voluntary 2nd year of bachelor internship, with a Masters 1st year level (context of Acoustics Master of Sorbonne University). '
-date: 2022-07-01
+excerpt: '[Language : ENG] This paper will be about the *fastACI* Matlab toolbox and its functionning as well as validity statement.
+date: NULL
 venue: NULL
 #slidesurl: 'http://academicpages.github.io/files/report_L2_internship_2022SU.pdf'
-paperurl: 'http://azallb.github.io/files/report_L2_internship_2022SU.pdf'
-citation: 'Azal LE BAGOUSSE (2022). &quot;Sound directivity and Beamforming-Licence 2 Internship.&quot; Unpublished.'
+paperurl: NULL
+citation: 'A. Osses, A. Le Bagousse, L. Varnet (?). Upcoming.'
 ---
-
-Abstract : In the field of acoustical engineering, modeling in the continuous medium is necessary to be able
-to understand all dynamical phenomena. The subject of this internship was the study of acoustical
-sources, with the following goals :
-- understanding the acquisition chains for sound signals and their spectrograms
-- making sure that the system is operational for data adequacy
-- establishing the directivity diagrams for all sound sources
-This results in directivity modeling after setting up the acquisition chains depending on the sources,
-the acquisitions themselves and data processing.
-To process signals and study them with precision, perfect performance of the microphones is mandatory.
-In this context and to check it, I coded a program which we will talk about later.
-Because the microphones were operating correctly, the precision of the directivity diagrams by beamforming
-was ensured, which allowed us to study them accordingly. Beamforming is a fundamental
-technique in antenna engineering. The details of its relationship with signal processing will be explained
-along the way.
-Finally, the contents of the experiments done during the internship and their results are detailed in
-the corresponding sections of this report.
-
-Key-words : Acoustical engineering, Antenna, Beamforming, Directivity plots, 3D modelling, Sound sources
-[French paper]
