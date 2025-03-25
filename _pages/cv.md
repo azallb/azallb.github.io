@@ -20,20 +20,20 @@ Education
 
 Experience
 ======
-* Research intern (M2) - Pupillometry and Microsaccades for Speech-in-Noise listening
+* Research intern (M2) - **Pupillometry and Microsaccades for Speech-in-Noise listening**
   * *[Auditory Cognition Group](https://www.auditorycognition.org/) (UCLondon & Newcastle UK, Iowa University US)*
   * March to August 2025
   * Duties includes: Testing new hearing impaired individuals on speech-in-noise using pupillometry and microsaccades measures, developpoing microsaccades paradigms
   * Supervisor: Professor T.D. Griffiths FMedSci
 
-* Research intern (M1) - Detection of Pure Tones in Noise
-  * *Audition team, [Laboratoire des Systemes Perceptifs](https://lsp.dec.ens.fr/en/presentation-487)*
+* Research intern (M1) - **Detection of Pure Tones in Noise**
+  * *Audition team, [Laboratoire des Systemes Perceptifs](https://lsp.dec.ens.fr/en/presentation-487), ENS-PSL, Paris FR*
   * May to August 2024
   * Duties included: Testing normal hearing individuals on tone-in-noise detection to replicate Ahumada et al.s 1975 study using a new Matlab toolbox to test its validity.
   * Supervisor: CNRS researcher L. Varnet
 
-* Research intern (L2, facultative) - Sound Source Directivity Modelling through Beamforming
-  * *MPIA team, [Jean le Rond d'Alembert Institute](http://www.dalembert.upmc.fr/ijlrda/)* (French page)
+* Research intern (L2, facultative) - **Sound Source Directivity Modelling through Beamforming**
+  * *MPIA team, [Jean le Rond d'Alembert Institute](http://www.dalembert.upmc.fr/ijlrda/), Sorbonne University, Paris FR* 
   * May to July 2022
   * Duties included: Recording diffferent sound sources (voice and various speakers) in a 1000 microphone-room then using a 256 microphone-antenna in an anechoic chamber. 3D modelling of directivities using beamforming methods and Python codes. 
   * Supervisor: Professor F. Ollivier
