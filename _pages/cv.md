@@ -12,11 +12,11 @@ redirect_from:
 Education
 ======
 * M.S.2 (French Master 2) in Acoustics, Signal Processing, Machine Learning, Music ([ATIAM](http://www.atiam.ircam.fr/en/) program). <br>
- *[Ircam](https://www.ircam.fr/), [Sorbonne University](https://sciences.sorbonne-universite.fr/en), [Telecom Paris engineering school](https://www.telecom-paris.fr/en/home)*, Paris, FR. 2025 (expected)
+ *[Ircam](https://www.ircam.fr/), [Sorbonne University](https://sciences.sorbonne-universite.fr/en), [Telecom Paris engineering school](https://www.telecom-paris.fr/en/home)*, Paris, FR. **2025 (expected)**
 * M.S.1 (French Master 1) in Acoustics (engineering and physics). <br>
-  *[Sorbonne University](https://sciences.sorbonne-universite.fr/en)*, Paris, FR. 2024.
+  *[Sorbonne University](https://sciences.sorbonne-universite.fr/en)*, Paris, FR. **2024**
 * B.S. (French Licence) in Mechanical Engineering, minor in Computer Science. <br> 
-  *[Sorbonne University](https://sciences.sorbonne-universite.fr/en)*, Paris, FR. 2020-2023. [2:1 Honours].
+  *[Sorbonne University](https://sciences.sorbonne-universite.fr/en)*, Paris, FR. **2020-2023**. [2:1 Honours]
 
 Experience
 ======
