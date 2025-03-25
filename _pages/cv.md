@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S.2 (French Master 2) in Acoustics, Signal Processing, Machine Learning, Music ([ATIAM](http://www.atiam.ircam.fr/en/) program). <br>
+ *[Ircam](https://www.ircam.fr/), [Sorbonne University](https://sciences.sorbonne-universite.fr/en), [Telecom Paris](https://www.telecom-paris.fr/en/home) engineering school*. 2025 (expected)
+* M.S.1 (French Master 1) in Acoustics (engineering and physics). <br>
+  *[Sorbonne University](https://sciences.sorbonne-universite.fr/en)*. 2024.
+* B.S. (French Licence) in Mechanical Engineering, minor in Computer Science. <br> 
+  *[Sorbonne University](https://sciences.sorbonne-universite.fr/en)*. 2020-2023.
 
 Experience
 ======
@@ -53,12 +56,12 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
