@@ -16,7 +16,7 @@ Education
 * M.S.1 (French Master 1) in Acoustics (engineering and physics). <br>
   *[Sorbonne University](https://sciences.sorbonne-universite.fr/en)*. 2024.
 * B.S. (French Licence) in Mechanical Engineering, minor in Computer Science. <br> 
-  *[Sorbonne University](https://sciences.sorbonne-universite.fr/en)*. 2020-2023.
+  *[Sorbonne University](https://sciences.sorbonne-universite.fr/en)*. 2020-2023. [2:1 Honours].
 
 Experience
 ======
