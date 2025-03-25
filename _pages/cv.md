@@ -40,12 +40,21 @@ Experience
   
 Skills
 ======
-* Skill 1
-* Skill 2"
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming languages :
+  * Python 3 (2k+ hours)
+  * C (500+ hours)
+  * Java (200+ hours)
+  * SQL databases (100h)
+  * Ocaml (100h)
+* Languages :
+  * French (native)
+  * English (bilingual - C1 certification BSC London, 2019)
+  * Italian (B2)
+  * Japanese (B1)
+  * Learning Farsi and LSF (A1)
+* Music :
+  * Singing for 18 years, self-taught in bass and guitar for 8 years
+  * Bassist and singer in amateur band (2018-20) and singer at the Conservatoire de Boulogne (CRR 92, 2019-2020)
 
 Works
 ======
