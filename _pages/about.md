@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi ! I'm Azal and this page was designed to organize and showcase my work, mostly academic, cumulated over the course of my studies. <br>
+Hi ! I'm Azal and this page was designed to organize and showcase my work, mostly academic, cumulated over the course of my studies, and details about my research so far. <br>
 You can find old blog articles on my sound-related [Facebook page](https://www.facebook.com/melomanelibre/) (now inactive), also available by clicking the Facebook icon on the sidebar.
 
 About Me
