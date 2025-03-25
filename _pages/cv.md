@@ -9,12 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+Find my 1-page CV here : [CV (PDF)](http://azallb.github.io/files/report_M1_internship_2024ENS.pdf).
+
 Education
 ======
 * M.S.2 (French Master 2) in Acoustics, Signal Processing, Machine Learning, Music ([ATIAM](http://www.atiam.ircam.fr/en/) program). <br>
  *[Ircam](https://www.ircam.fr/), [Sorbonne University](https://sciences.sorbonne-universite.fr/en), [Telecom Paris engineering school](https://www.telecom-paris.fr/en/home)*, Paris, FR. **2025 (expected)**
 * M.S.1 (French Master 1) in Acoustics (engineering and physics). <br>
   *[Sorbonne University](https://sciences.sorbonne-universite.fr/en)*, Paris, FR. **2024**
+* [PSL Week - Audition](https://cognition.ens.fr/en/psl-week-audition-du-gene-la-perception-17135) : *Du gene a la perception* 
+  *[DEC, ENS, PSL University](https://cognition.ens.fr/en)* and [Institut de l'Audition](https://www.institut-audition.fr/en/institut-audition), Paris, FR. **11/2023**
 * B.S. (French Licence) in Mechanical Engineering, minor in Computer Science. <br> 
   *[Sorbonne University](https://sciences.sorbonne-universite.fr/en)*, Paris, FR. **2020-2023** [2:1 Honours]
 
@@ -46,6 +50,7 @@ Skills
   * Java (200+ hours)
   * SQL databases (100h)
   * Ocaml (100h)
+  * Starting HTML
 * Languages :
   * French (native)
   * English (bilingual - C1 certification BSC London, 2019)
