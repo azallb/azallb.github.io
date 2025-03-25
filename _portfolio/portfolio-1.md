@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "2024 Internship - generated ACIs"
+excerpt: "Auditory Classification Images <br/><img src='/images/500x300.png'><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+ACIs from 2 NH participants ("S03" and "S05") in our 2024 study ([paper here](http://azallb.github.io/files/report_M1_internship_2024ENS.pdf)). Generated using Python 3, following revcorr principals and linear regression. Updated coloured pixels version and old 1975 peaks version for each result.
+<img src='/images/500x300.png'> <br> <img src='/images/500x300.png'>
