@@ -44,7 +44,7 @@
         {% elsif post.collection == 'publications' %}
           {% if post.venue %}
             <p>Published in <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}</p>
-          {% else %}
+          {% elsif post.date %}
             <p>Unpublished{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}</p>
           {% endif %}
         
@@ -54,7 +54,7 @@
             <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
           </p>
         {% else %}
-          <p> <strong> Coming soon</strong></p>
+          <p><strong> Coming soon</strong></p>
         {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
