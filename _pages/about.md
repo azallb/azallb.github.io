@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Hi ! I'm Azal and this page was designed to organize and showcase my work, mostly academic, cumulated over the course of my studies, and details about my research so far. <br>
-You can find old blog articles on my sound-related [Facebook page](https://www.facebook.com/melomanelibre/) (now inactive), also available by clicking the Facebook icon on the sidebar.
+You can find my old (now inactive) sound-related Facebook blog [here](https://www.facebook.com/melomanelibre/), also available through the Facebook icon on the sidebar. This website now holds my work and my blog.
 
 About Me
 ======

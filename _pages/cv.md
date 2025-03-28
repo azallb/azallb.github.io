@@ -50,7 +50,7 @@ Skills
   * Java (200+ hours)
   * SQL databases (100h)
   * Ocaml (100h)
-  * Starting HTML
+  * Learning HTML and JavaScript
 * Languages :
   * French (native)
   * English (bilingual - C1 certification BSC London, 2019)
