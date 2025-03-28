@@ -3,7 +3,7 @@ title: "50 Years of Reverse Correlation : Replicating Ahumada et al.'s Pioneerin
 collection: articles
 category: conferences
 permalink: /articles/2025-04-28_Replicating_Ahumada_1975_fastACI
-excerpt: '**UPCOMING on 28th April, full page not available yet.** [Language : ENG] This paper is about replicating the famous Ahumada et al. 1975 study on tone-in-noise detection using a Matlab toolbox (*fastACI*, Osses&Varnet 2021) to illustrate its possibilities and to bring a new light on this subject while comparing our latest results to those gathered 50 years ago.'
+excerpt: '**Full page available on 28th April.** [Language : ENG] This paper is about replicating the famous Ahumada et al. 1975 study on tone-in-noise detection using a Matlab toolbox (*fastACI*, Osses&Varnet 2021) to illustrate its possibilities and to bring a new light on this subject while comparing our latest results to those gathered 50 years ago.'
 date: 2025-04-28
 venue: CFA (French Acoustics Congress) 2025 papers
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
