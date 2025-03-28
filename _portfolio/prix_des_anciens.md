@@ -1,5 +1,5 @@
 ---
-title: "2023 Laureate of the Sorbonne Award - *Prix des Anciens*"
+title: "2023 Laureate of the Sorbonne Award / *Prix des Anciens*"
 excerpt: "Award for curriculum and prospects excellence across all Sorbonne faculties <br/><img src='/images/mine/prix_anciens_2023.png'>"
 collection: portfolio
 date: 2024-02-17
