@@ -190,6 +190,7 @@ exclude:
   - tmp
   - vendor
   - sitemap.xml
+  - sitemap
 keep_files:
   - .git
   - .svn
