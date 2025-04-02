@@ -19,12 +19,12 @@ In 2023, I graduated from my Bachelor in Mechanical Engineering with a minor in 
 In 2020, I got my French Scientific Baccalaureate with the Highest Honours (First Class) from the [Lycee Jean de la Fontaine](https://pia.ac-paris.fr/serail/jcms/p2_73053/fr/accueil). <br>
 During those years, I have completed 3 internships (see CV header for more info). The last one in date is on-going with the [Auditory Cognition Group](https://www.auditorycognition.org/) (UCLondon & Newcastle, UK, and Iowa, US). For 5+ months, I am working with the UK branch in England under Pr. T.D. Griffiths on speech-in-noise perception, listening effort and pupillometry & microsaccades as indicators of said effort. The last fully completed internship was in 2024 under L. Varnet at the [Laboratoire des Systemes Perceptifs](https://lsp.dec.ens.fr/en/presentation-487), ENS-PSL, France. It was about tone-in-noise detection and replicating a pionneering study from the 70s using a brand new toolbox.
 
-More Facts And Frolics
+More Skills and Facts
 ======
 1. I've been interested in auditory perception for more than 3 years, in sound physics for 8, in music for 15, and in human behaviour for my entire life.
-1. My 2nd most important hobby, after studying people, is music ! I've been singing my whole life, but I also play the bass and sometimes the guitar. I have performed at some concerts and it was the best experience of my life every time. I also listen to at least 2h of music per day.
-1. I write a lot : from novels to poems, sometimes even movie scripts... I write at least once a day, and I have a never ending urge to write.
-1. I love and dabble in most arts like drawing, painting, sculpting... I need to put my hands on medium any time I can.
+1. My 2nd most important hobby, after studying people, is music. I've been singing my whole life, but I also play the bass and sometimes the guitar. I have performed live at  concerts. I also listen to a ton of music.
+1. I write a lot, from novels to poems, sometimes even movie scripts. I write at least once a day, and have a never ending urge to write.
+1. I love and dabble in most arts like drawing, painting, sculpting...
 1. I have studied many languages : I am fluent in French and English, but studied Japanese as my 2nd language for 7 years in secondary school, and Italian as my third at the same time for 5 years. I am currently learning Persian (Farsi) and LSF (French Sign Language). My next languages of interest are Finnish, Swedish, German and Mandarin. I dream of learning every language I can to help my understanding of diverse cultures and communities.
-1. I love the outdoors and being active : you'll either find me bouldering or hiking on the weekends. And I have tried almost every sports, I never say no to trying out new activities.
+1. I love the outdoors and being active. I never say no to trying out new activities.
 
