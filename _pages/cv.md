@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Find my 1-page English CV here : [Short CV (PDF)](http://azallb.github.io/files/CV_eng_MAR25.pdf).
+Find my 1-page English CV here : [Short CV (PDF)](http://azallb.github.io/files/CV_eng_MAR25.pdf). <br>
 Find it in French here : [French short CV (PDF)](http://azallb.github.io/files/CV_fr_APR25.pdf).
 
 Education
