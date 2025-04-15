@@ -10,7 +10,8 @@ redirect_from:
 {% include base_path %}
 
 Find my **short** English CV here : [CV (PDF)](http://azallb.github.io/files/CV_eng_MAR25.pdf). <br>
-Find it in French here : [French CV (PDF)](http://azallb.github.io/files/CV_fr_APR25.pdf).
+Find it in French here : [French CV (PDF)](http://azallb.github.io/files/CV_fr_APR25.pdf). <br>
+Under is the detailled version of my curriculum and works.
 
 Education
 ======
