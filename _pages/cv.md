@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Find my 1-page (English) CV here : [CV (PDF)](http://azallb.github.io/files/CV_azal_lebagousse_25-3-2025.pdf).
+Find my 1-page (English) CV here : [CV (PDF)](http://azallb.github.io/files/CV_eng_MAR25.pdf).
 
 Education
 ======
