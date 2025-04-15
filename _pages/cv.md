@@ -34,13 +34,13 @@ Experience
   * *Audition team, [Laboratoire des Systemes Perceptifs](https://lsp.dec.ens.fr/en/presentation-487), ENS-PSL, Paris FR*
   * May to August 2024
   * Duties included: Testing normal-hearing individuals on tone-in-noise detection to replicate Ahumada et al.s 1975 study using a new Matlab toolbox to test its validity.
-  * Supervisor: CNRS researcher L. Varnet
+  * Supervisor: CNRS researcher Léo Varnet
 
 * Research intern (L2, facultative) - **Sound Source Directivity Modelling through Beamforming**
   * *MPIA team, [Jean le Rond d'Alembert Institute](http://www.dalembert.upmc.fr/ijlrda/), Sorbonne University, Paris FR* 
   * May to July 2022
   * Duties included: Recording diffferent sound sources (voice and various speakers) in a 1000 microphone-room then using a 256 microphone-antenna in an anechoic chamber. 3D modelling of directivities using beamforming methods and Python codes. 
-  * Supervisor: Professor F. Ollivier
+  * Supervisor: Professor François Ollivier
   
 Skills
 ======
