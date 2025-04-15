@@ -1,10 +1,10 @@
 ---
-title: "UPCOMING : fastACI toolbox paper"
+title: "UPCOMING / FastACI: A Toolbox for Investigating Auditory Perception using Reverse Correlation"
 collection: articles
 category: journals
-permalink: /articles/upcoming-Osses-LeBagousse-Varnet
-excerpt: '[Language : ENG] This paper will be about the *fastACI* Matlab toolbox and its functionning as well as validity statement.'
+permalink: /articles/upcoming-fastACI-OssesLeBagousseVarnet
+excerpt: '[Language : ENG] This paper is about the *fastACI* Matlab toolbox. Here, we present the structure of the toolbox, how to replicate experiments and reproduce figures from existing studies, how to set up new experiments, and how to extend the toolbox functionalities.'
 #slidesurl: 'http://academicpages.github.io/files/report_L2_internship_2022SU.pdf'
 citation: 'A. Osses, A. Le Bagousse, L. Varnet (?). Upcoming.'
 ---
-The date does not mean anything. The article is in the works with no outing date yet. It should be done soon.
+The date does not mean anything. The article is in the works with no outing date yet. It will be published soon.
