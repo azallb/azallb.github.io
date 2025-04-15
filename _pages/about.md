@@ -22,7 +22,7 @@ During those years, I have completed 3 internships (see CV header for more info)
 More Skills and Facts
 ======
 1. I've been interested in auditory perception for more than 3 years, in sound physics for 8, in music for 15, and in human behaviour for my entire life.
-1. My 2nd most important hobby, after studying people, is music. I've been singing my whole life, but I also play the bass and sometimes the guitar. I have performed live at  concerts. I also listen to a ton of music.
+1. My 2nd most important hobby, after studying people, is music. I've been singing my whole life, but I also play the bass and sometimes the guitar. I have performed live at  concerts. I also listen to a lot of music.
 1. I write a lot, from novels to poems, sometimes even movie scripts. I write at least once a day, and have a never ending urge to write.
 1. I love and dabble in most arts like drawing, painting, sculpting...
 1. I have studied many languages : I am fluent in French and English, but studied Japanese as my 2nd language for 7 years in secondary school, and Italian as my third at the same time for 5 years. I am currently learning Persian (Farsi) and LSF (French Sign Language). My next languages of interest are Finnish, Swedish, German and Mandarin. I dream of learning every language I can to help my understanding of diverse cultures and communities.
