@@ -24,7 +24,7 @@ Education
 
 Experience
 ======
-* Research intern (M2) - **Pupillometry and Microsaccades for Speech-in-Noise listening**
+* Research intern (M2) - **Training Speech-in-Noise comprehension and characterizing listening effort**
   * *[Auditory Cognition Group](https://www.auditorycognition.org/) (UCLondon & Newcastle UK, Iowa University US)*
   * March to August 2025
   * Duties includes: Training normal-hearing people on Speech-in-Noise comprehension : using an app, making them train at home on different Auditory Figure Ground tasks and then testing them on SiN comprehension after 7 days. Also taking pupil dilation and microsaccade measures to characterize listening effort in SiN listening.
