@@ -19,7 +19,7 @@ Education
   *[Sorbonne University](https://sciences.sorbonne-universite.fr/en)*, Paris, FR. **2024**
 * [PSL Week - Audition](https://cognition.ens.fr/en/psl-week-audition-du-gene-la-perception-17135) : *Du gène a la perception* <br>
   *[DEC, ENS, PSL University](https://cognition.ens.fr/en) and [Institut de l'Audition](https://www.institut-audition.fr/en/institut-audition)*, Paris, FR. **11/2023**
-* B.S. (French Licence) in Mechanical Engineering, minor in Computer Science. <br> 
+* B.S. (French Licence) in [Mechanical Engineering](https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences-0/licence-discipline/les-l2-l3-nos-huit-5), minor in [Computer Science](https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences-0/licence-discipline/les-l2-l3-nos-huit-4). <br> 
   *[Sorbonne University](https://sciences.sorbonne-universite.fr/en)*, Paris, FR. **2020-2023** [2:1 Honours]
 
 Experience
