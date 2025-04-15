@@ -13,9 +13,9 @@ Find my 1-page (English) CV here : [CV (PDF)](http://azallb.github.io/files/CV_a
 
 Education
 ======
-* M.S.2 (French Master 2) in Acoustics, Signal Processing, Machine Learning, Music ([ATIAM](http://www.atiam.ircam.fr/en/) program) <br>
+* M.S.2 (French Master 2) [ATIAM](http://www.atiam.ircam.fr/en/) program - Acoustics, Signal Processing, Machine Learning, Music <br>
  *[Ircam](https://www.ircam.fr/), [Sorbonne University](https://sciences.sorbonne-universite.fr/en), [Telecom Paris engineering school](https://www.telecom-paris.fr/en/home)*, Paris, FR. **2025 (expected)**
-* M.S.1 (French Master 1) in [Acoustics](https://masters-sdi.sorbonne-universite.fr/la-mention-mecanique/le-parcours-acoustique/m1-acoustique) (engineering and physics), a branch of the [Mechanical Engineering Master](https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/masters/master-de-mecanique) <br>
+* M.S.1 (French Master 1) [Acoustics](https://masters-sdi.sorbonne-universite.fr/la-mention-mecanique/le-parcours-acoustique/m1-acoustique) (engineering and physics) - a branch of the [Mechanical Engineering Master](https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/masters/master-de-mecanique) <br>
   *[Sorbonne University](https://sciences.sorbonne-universite.fr/en)*, Paris, FR. **2024**
 * [PSL Week - Audition](https://cognition.ens.fr/en/psl-week-audition-du-gene-la-perception-17135) : *Du gène a la perception* <br>
   *[DEC, ENS, PSL University](https://cognition.ens.fr/en) and [Institut de l'Audition](https://www.institut-audition.fr/en/institut-audition)*, Paris, FR. **11/2023**
