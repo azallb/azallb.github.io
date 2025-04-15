@@ -27,13 +27,13 @@ Experience
 * Research intern (M2) - **Pupillometry and Microsaccades for Speech-in-Noise listening**
   * *[Auditory Cognition Group](https://www.auditorycognition.org/) (UCLondon & Newcastle UK, Iowa University US)*
   * March to August 2025
-  * Duties includes: Testing new hearing impaired individuals on speech-in-noise using pupillometry and microsaccades measures, developpoing microsaccades paradigms
-  * Supervisor: Professor T.D. Griffiths FMedSci
+  * Duties includes: Training normal-hearing people on Speech-in-Noise comprehension : using an app, making them train at home on different Auditory Figure Ground tasks and then testing them on SiN comprehension after 7 days. Also taking pupil dilation and microsaccade measures to characterize listening effort in SiN listening.
+  * Supervisor: Professor Tim D. Griffiths, FMedSci
 
 * Research intern (M1) - **Detection of Pure Tones in Noise**
   * *Audition team, [Laboratoire des Systemes Perceptifs](https://lsp.dec.ens.fr/en/presentation-487), ENS-PSL, Paris FR*
   * May to August 2024
-  * Duties included: Testing normal hearing individuals on tone-in-noise detection to replicate Ahumada et al.s 1975 study using a new Matlab toolbox to test its validity.
+  * Duties included: Testing normal-hearing individuals on tone-in-noise detection to replicate Ahumada et al.s 1975 study using a new Matlab toolbox to test its validity.
   * Supervisor: CNRS researcher L. Varnet
 
 * Research intern (L2, facultative) - **Sound Source Directivity Modelling through Beamforming**
