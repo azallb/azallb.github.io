@@ -7,4 +7,4 @@ excerpt: '[Language : ENG] This paper is about the *fastACI* Matlab toolbox. Her
 #slidesurl: 'http://academicpages.github.io/files/report_L2_internship_2022SU.pdf'
 citation: 'A. OSSES, A. LE BAGOUSSE, L. VARNET (2025). "FastACI: A Toolbox for Investigating Auditory Perception using Reverse Correlation". *frontiers*. UPCOMING.'
 ---
-The date does not mean anything. The article is in the works with no outing date yet. It will be published soon.
+The date here does not mean anything. The article is in the works with no outing date yet. It will be published soon as we are in our final writing stage.
