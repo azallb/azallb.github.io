@@ -10,7 +10,7 @@ venue: CFA 2025 papers + soon in Acoustique et Techniques + HAL
 paperurl: 'http://azallb.github.io/files/Ahumada-study_lebagousse_varnet2025.pdf'
 citation: 'A. LE BAGOUSSE, L. VARNET (2025). &quot;50 Years of Reverse Correlation : Replicating Ahumada et al.s Pioneering Study.&quot; CFA 2025 papers.'
 ---
-HAL REFERENCE : [⟨hal-05060148⟩](https://hal.science/hal-05060148v1/).
+HAL REFERENCE : [⟨hal-05060148⟩](https://hal.science/hal-05060148v1/). <br>
 Abstract : In 1975, Ahumada, Marken & Sandusky addressed the fundamental question of tone-in-noise perception using
 an innovative psychoacoustic approach. They conducted a detection task involving a 500-Hz pure-tone target
 in white noise, and analyzed participants’ trial-by-trial responses (‘tone present’ or ‘tone absent’) by correlating
