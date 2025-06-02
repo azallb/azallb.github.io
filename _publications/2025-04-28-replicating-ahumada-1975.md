@@ -5,12 +5,12 @@ category: conferences
 permalink: /articles/2025-04-28_Replicating_Ahumada_1975_fastACI
 excerpt: '[Language : ENG] This paper is about replicating the famous Ahumada et al. 1975 study on tone-in-noise detection using a Matlab toolbox (*fastACI*, Osses&Varnet 2021) to illustrate its possibilities and to bring a new light on this subject while comparing our latest results to those gathered 50 years ago. It was nominated for the Best Young Researcher Article award by the SFA during the 17th French Congress for Acoustics (CFA) in 2025.'
 date: 2025-04-28
-venue: CFA 2025 papers + soon in Acoustique et Techniques
+venue: CFA 2025 papers + soon in Acoustique et Techniques + HAL
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://azallb.github.io/files/Ahumada-study_lebagousse_varnet2025.pdf'
 citation: 'A. LE BAGOUSSE, L. VARNET (2025). &quot;50 Years of Reverse Correlation : Replicating Ahumada et al.s Pioneering Study.&quot; CFA 2025 papers.'
 ---
-
+HAL REFERENCE : [⟨hal-05060148⟩](https://hal.science/hal-05060148v1/).
 Abstract : In 1975, Ahumada, Marken & Sandusky addressed the fundamental question of tone-in-noise perception using
 an innovative psychoacoustic approach. They conducted a detection task involving a 500-Hz pure-tone target
 in white noise, and analyzed participants’ trial-by-trial responses (‘tone present’ or ‘tone absent’) by correlating
