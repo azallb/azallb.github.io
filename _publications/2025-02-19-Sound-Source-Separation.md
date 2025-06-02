@@ -7,7 +7,7 @@ excerpt: '[Language : ENG] This paper is about sound recording and diverse algor
 date: 2025-02-19
 venue: NULL
 slidesurl: 'http://azallb.github.io/files/slides_source_separation.pdf'
-paperurl: 'http://azallb.github.io/files/PAM___Source_Separation.pdf'
+paperurl: 'http://azallb.github.io/files/PAM___Source_separation.pdf'
 citation: 'A. LE BAGOUSSE, R. WENDLING, J. KANG (2025). &quot;Sound Recording and Audio Source Separation-M2 ATIAM Project report.&quot; Unpublished.'
 ---
 
